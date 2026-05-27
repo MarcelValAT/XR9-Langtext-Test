@@ -21,6 +21,46 @@
     <OUTPUTLEN>000080</OUTPUTLEN>
     <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
    </DD04V>
+<LONGTEXTS>
+ <item>
+  <DOKIL>
+   <ID>DE</ID>
+   <OBJECT>ZSCD_DESCRIPTION</OBJECT>
+   <LANGU>E</LANGU>
+   <TYP>E</TYP>
+   <VERSION>0001</VERSION>
+   <MASTERLANG>X</MASTERLANG>
+   <TXTLINES>00002</TXTLINES>
+   <DOKSTATE>A</DOKSTATE>
+  </DOKIL>
+  <HEAD>
+   <TDOBJECT>DOKU</TDOBJECT>
+   <TDNAME>ZSCD_DESCRIPTION</TDNAME>
+   <TDID>DE</TDID>
+   <TDSPRAS>E</TDSPRAS>
+   <TDFORM>S_DOCU_SHOW</TDFORM>
+   <TDSTYLE>S_DOCUS1</TDSTYLE>
+   <TDVERSION>00001</TDVERSION>
+   <TDLINESIZE>072</TDLINESIZE>
+  </HEAD>
+  <LINES>
+   <TLINE>
+    <TDFORMAT>U1</TDFORMAT>
+    <TDLINE>&amp;DEFINITION&amp;</TDLINE>
+   </TLINE>
+   <TLINE>
+    <TDFORMAT>AS</TDFORMAT>
+    <TDLINE>General description text used for explanatory fields.</TDLINE>
+   </TLINE>
+   <TLINE>
+    <TDLINE>This field contains a short free-text description.</TDLINE>
+   </TLINE>
+   <TLINE>
+    <TDFORMAT>AS</TDFORMAT>
+   </TLINE>
+  </LINES>
+ </item>
+</LONGTEXTS>
   </asx:values>
  </asx:abap>
 </abapGit>
